@@ -34,9 +34,11 @@ Ce document sera mis à jour au fur et à mesure du semestre avec les informatio
 
 ## Ressources
 ### SVG
-* [Cours de l'année passée](https://observablehq.com/@idris-maps/svg)
+* [Cours 2021](https://observablehq.com/@idris-maps/svg)
 * [Tutoriel MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
 
 ### D3
+* [Cours 2021](https://observablehq.com/@idris-maps/introduction-a-d3)
 * https://d3js.org/
 * https://www.d3-graph-gallery.com/
+* https://observablehq.com/collection/@d3/learn-d3
