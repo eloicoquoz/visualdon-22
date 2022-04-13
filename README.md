@@ -16,10 +16,9 @@ Ce document sera mis à jour au fur et à mesure du semestre avec les informatio
      * Visualisation statique ❗ Délai du rendu: **1 avril, 23h59** ❗
      * Cartographie ❗ Délai du rendu: **8 avril, 23h59** ❗
      * Animation ❗ Délai du rendu: **22 avril, 23h59** ❗
-
+* [Exercice 5](https://github.com/romanoe/visualdon-22/tree/main/05-web-scraping) : Web scraping ❗ Délai du rendu: **29 avril - 23h59**❗
 
 ## Projet
-
 ### But
 * Créer une visualisation interactive à partir d'un ou plusieurs jeux de données
 * Le choix de types, et le nombre de visualisations est libre
