@@ -9,7 +9,7 @@ const HtmlWebpackPluginConfig = new HtmlWebpackPlugin({
 module.exports = {
     name: 'browser',
     mode: 'development',
-    entry: ['./src/index.js'] ,
+    entry: './src/index.js',
     output: {
         path: path.resolve('dist'),
         filename: 'index_bundle.js'
@@ -26,10 +26,5 @@ module.exports = {
             }
         ]
     },
-    plugins: [HtmlWebpackPluginConfig],
-    externals: {
-        puppeteer: 'require("puppeteer")'
-    }
+    plugins: [HtmlWebpackPluginConfig]
 }
-
-
