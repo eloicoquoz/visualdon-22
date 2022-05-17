@@ -134,4 +134,8 @@ legend
 	.style("align-items", "center")
 	.append("text")
 	.text("no data")
+<<<<<<< HEAD
 	.style("color", "white");
+=======
+	.style("color", "white");
+>>>>>>> 65050ad10a6dcffa0f89a2e139115ea074b03f30

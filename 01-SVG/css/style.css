@@ -1,11 +1,11 @@
 body {
-  font-family: 'Open Sans', sans-serif;
+      font-family: 'Open Sans', sans-serif;
 }
 
-.forcecolor {
-  fill: blue !important;
+.swapColor{
+      fill:black !important;
 }
 
-.ext-donut:hover {
-  r: 100 !important;
+#bigDonut:hover{
+      r:100;
 }

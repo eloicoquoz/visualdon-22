@@ -7,6 +7,7 @@
     "build": "babel src -d lib",
     "start": "webpack-dev-server"
   },
+  "type": "module",
   "author": "Noemi Romano",
   "license": "ISC",
   "dependencies": {
