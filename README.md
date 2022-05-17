@@ -27,7 +27,7 @@ Ce document sera mis à jour au fur et à mesure du semestre avec les informatio
 ### Délais
 * Vendredi 11 mars 23h59: [Thématique](https://github.com/romanoe/visualdon-22/tree/main/projet) (10%)
 * Vendredi 18 mars 23h59: Wireframe (10%)
-* Vendredi 6 mai 23h59: Site web (60%)
+* Lundi 16 mai 23h59: Site web (60%)
 * Mercredi 11 mai, vendredi 13 mai: Présentation (20%)
 
 ### Format
