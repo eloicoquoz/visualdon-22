@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import { JSDOM } from 'jsdom';
 import fetch from "isomorphic-fetch"
 import puppeteer from "puppeteer"
@@ -60,3 +61,9 @@ await browser.close();
         }   
     }
 })()
+=======
+import jsdom from "jsdom";
+import fetch from "isomorphic-fetch"
+import puppeteer from "puppeteer"
+
+>>>>>>> e4b1e08c67c34de6a4d7a68e390ec1081e68bdb5
